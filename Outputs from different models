@@ -1,0 +1,41 @@
+--------------
+Model Outputs
+--------------
+
+1. Linear Regression:
+    Score: 66.65030487253156
+    Root mean squared error: 4.945360766355321
+    
+2. Decision Tree Regressor:
+    Score: 70.28119833804102
+    Root mean squared error: 4.668396038108534
+
+3. Random Forest Regression
+    Score: 85.59777684597405
+    Root mean squared error: 3.2498761665699223
+    
+4.Support Vector Machine:
+    Score: 64.66895372030484
+    Root mean squared error: 5.090146644943051
+
+------------------
+Model Evaluations
+------------------
+
+1. Linear Regression:
+    Mean:  5.1900708016212125
+    Standard deviation:  2.8065033386676856
+    
+2. Decision Tree Regressor:
+    Mean:  5.815407314777361
+    Standard deviation:  2.464898064650202
+
+3. Random Forest Regression
+    Mean:  4.224600510640213
+    Standard deviation:  2.1377130147289645
+    
+4.Support Vector Machine:
+    Mean:  5.448472342260309
+    Standard deviation:  2.983517725738844
+    
+ 
