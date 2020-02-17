@@ -18,7 +18,7 @@ From social network ads, the dataset prepared for user details and whether a use
 - Algorithm: Logistic Regression
 - Accuracy: 88 %
 
-### 4. [Titanic Data].(https://github.com/narenbac/Data-Science-and-ML_Projects/tree/master/Titanic%20Data)
+### 4. [Titanic Data](https://github.com/narenbac/Data-Science-and-ML_Projects/tree/master/Titanic%20Data)
 The dataset is of Titanic Sinking Disaster and it contains all the passenger's details. There were some people who were lucky to survive. In this project I have explored the data to analyse which factors were made people more lucky to get survived. And I tried machine learning from the disaster for prediction of survivals.
 - Problem Type: Classification
 - Algorithm: Logistic Regression
