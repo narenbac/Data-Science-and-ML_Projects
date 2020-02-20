@@ -15,8 +15,8 @@ The dataset contains the customer details and bank approves the loan application
 ### 3. [SUV Car Predictions](https://github.com/narenbac/Data-Science-and-ML_Projects/tree/master/SUV%20Car%20Predictions)
 From social network ads, the dataset prepared for user details and whether a user purchased a SUV car or not. Here I used the dataset to analyse and trained a machine learning model to predict SUV Car sales in future based on the user details.
 - Problem Type: Classification
-- Algorithm: Logistic Regression
-- Accuracy: 88 %
+- Algorithm: Support Vector Classifier
+- Accuracy: 94.87 %
 
 ### 4. [Titanic Data](https://github.com/narenbac/Data-Science-and-ML_Projects/tree/master/Titanic%20Data)
 The dataset is of Titanic Sinking Disaster and it contains all the passenger's details. There were some people who were lucky to survive. In this project I have explored the data to analyse which factors were made people more lucky to get survived. And I tried machine learning from the disaster for prediction of survivals.
